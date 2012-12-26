@@ -1,8 +1,12 @@
 import java.util.LinkedList;
 
-
+// just adding a comment to track changes in Github
 public class IntBST {
     private IntNode rootNode;
+
+	public void printTest(){
+		//empty
+	}
 
     public void printTree() {
         LinkedList<IntNode> queue = new LinkedList<IntNode>();
